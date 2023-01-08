@@ -1,2 +1,2 @@
 # Towards-remote-monitoring-of-dynamic-arm-supports-paper
-This is the code for the feature selection and classification parts of the "«Towards remote monitoring of dynamic arm supports for individuals with Duchenne muscular dystrophy using 3D accelerometry" paper
+This is the code for the feature extraction, selection and classification parts of the "Towards remote monitoring of dynamic arm supports for individuals with Duchenne muscular dystrophy using 3D accelerometry" paper. Dataset is private, so I removed the data reading part but provided a dummy .mat file that shows how the main data struct looks like. Note, the code is divided into sections, some of which can't be run sequentially so read the comments first.
